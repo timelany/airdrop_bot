@@ -1,2 +1,2 @@
-# airdrop_bot
+# Airdrop Telebot
 Airdropbot
